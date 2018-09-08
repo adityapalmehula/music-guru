@@ -1,0 +1,54 @@
+{
+  "Weekly_song": [
+    { "id"         : 1,
+      "song_name"  : "Bhagwan Hai Kahan Re Tu",
+      "year"       : 2016,
+      "singer_name" :["xyz","xyz","xyz"],
+      "music_director" :["xyz","xyz","xyz"],
+      "song_path"   : ["/xyz.jpg"],
+      "duration"    : 3,
+      "language"    : "hindi"
+      "type"        : "weekly_top",
+      "facilities"  : ["freewifi","free cancellation"],
+      "rating"      : 5
+    },
+    { "id"         : 2,
+      "song_name"  : "Bhagwan Hai Kahan Re Tu",
+      "year"       : 2016,
+      "singer_name" :["xyz","xyz","xyz"],
+      "music_director" :["xyz","xyz","xyz"],
+      "song_path"   : ["/xyz.jpg"],
+      "duration"    : 3,
+      "language"    : "hindi"
+      "type"        : "weekly_top",
+      "facilities"  : ["freewifi","free cancellation"],
+      "rating"      : 5
+    },
+    { "id"         : 3,
+      "song_name"  : "Bhagwan Hai Kahan Re Tu",
+      "year"       : 2016,
+      "singer_name" :["xyz","xyz","xyz"],
+      "music_director" :["xyz","xyz","xyz"],
+      "song_path"   : ["/xyz.jpg"],
+      "duration"    : 3,
+      "language"    : "hindi"
+      "type"        : "weekly_top",
+      "facilities"  : ["freewifi","free cancellation"],
+      "rating"      : 5
+    },
+    { "id"         : 4,
+      "song_name"  : "Bhagwan Hai Kahan Re Tu",
+      "year"       : 2016,
+      "singer_name" :["xyz","xyz","xyz"],
+      "music_director" :["xyz","xyz","xyz"],
+      "song_path"   : ["/xyz.jpg"],
+      "duration"    : 3,
+      "language"    : "hindi"
+      "type"        : "weekly_top",
+      "facilities"  : ["freewifi","free cancellation"],
+      "rating"      : 5
+    },
+
+
+  ]
+}

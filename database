@@ -1,0 +1,57 @@
+==> bds ( musicgallery )
+ use musicgallery
+==> show collections (song)
+song 
+var songlist=
+	[
+	
+		{
+			"songname" : "tere name",
+			"year" : 2011,
+                        "moviename" : "jjj",
+                        "musicdirector" : "kkk",
+                        "language" : "hindi",
+                        "rating" : 6,
+                        "view" : 100,
+                        "imgpath":"",
+                        "type": "top",
+                        "Date":2/3/14,
+                        "singername":"kapil",
+                        "duration":"2 min"
+		},
+		
+	];
+
+
+
+db.song.insert(songlist);
+db.song.find().forEach(printjson);
+object type array.
+-----------------------------------------------------------
+==> db.createCollection('user');
+user
+==>db.user.insert({
+     "name":"ashu",
+     "email":"javajiaditya",
+     "password": "2344"
+     })
+==>db.user.insert({
+     "name":"ravi",
+     "email":"javajiaditya",
+     "password": "2344"
+     })
+==> db.user.find().pretty();
+-----------------------------------------------------------
+==> db.createCollection('admin');
+==>db.user.insert({
+     "email":"modi",
+     "password": "420"
+     })
+-----------------------------------------------------------
+==>db.createCollection('favdata');
+==>var favsong=
+	[
+		
+	];
+==>db.favdata.insert(favsong);
+

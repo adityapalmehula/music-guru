@@ -1,0 +1,25 @@
+{
+  "register": [ 
+    { 
+         "name" : "Aditya",
+	 "email": "javajiadityapal@gmail.com",
+	 "password": "xyz",
+    },
+   { 
+         "name" : "Aditya",
+	 "email": "javajiadityapal@gmail.com",
+	 "password": "xyz",
+    },
+   { 
+         "name" : "Aditya",
+	 "email": "javajiadityapal@gmail.com",
+	 "password": "xyz",
+    },
+    { 
+         "name" : "Aditya",
+	 "email": "javajiadityapal@gmail.com",
+	 "password": "xyz",
+    },
+  ]
+}
+
